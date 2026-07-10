@@ -1,4 +1,3 @@
-# OptiCrop_Agriculture
 # OptiCrop: Smart Agricultural Production Optimization Engine
 
 ## 1. Project Overview
