@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="hero">
+    <div class="hero-content">
+        <h1>Smart Agricultural Production Optimization Engine</h1>
+        <p>Empowering farmers with data-driven insights. Optimize your crop yield with advanced machine learning based on soil and environmental conditions.</p>
+        <a href="{{ url_for('findyourcrop') }}" class="btn btn-large">Get Started</a>
+    </div>
+    <div class="hero-image">
+        <!-- A decorative element representing agriculture/data -->
+        <div class="glass-card decorative">
+            <h3>N: 90, P: 42, K: 43</h3>
+            <p>Temp: 20°C, Humidity: 82%</p>
+            <div class="result-badge">Recommended: Rice</div>
+        </div>
+    </div>
+</div>
+{% endblock %}
