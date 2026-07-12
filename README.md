@@ -60,3 +60,5 @@ A user wants to understand whether their current soil and climate conditions mat
 
 ### Scenario 3: Agricultural Research and Policy Planning
 An agricultural researcher or policymaker uses the system's underlying dataset and K-Means clustering patterns to analyze crop-environment relationships. The platform helps identify trends in agricultural production, enabling data-driven decisions for sustainable farming strategies, resource allocation, and supply chain management.
+**Demo Link:**
+https://drive.google.com/file/d/12NvYFd0qDkJ4BxBeELaGuavmV_1PzVHo/view?usp=drivesdk
